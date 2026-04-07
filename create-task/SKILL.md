@@ -289,6 +289,9 @@ If it is not Success Response, Stop the retry mechanism.
 
 Error Response: Please reference reference.md and output corresponding error message to user.
 
+```
+❌ Jira Task Fail to Deleted Successfully!
 ┌────────────────────────────────────────────
 │ Error: Provide the Error Message Here
 └────────────────────────────────────────────
+```
